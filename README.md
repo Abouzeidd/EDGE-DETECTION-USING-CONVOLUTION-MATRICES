@@ -1,4 +1,3 @@
-# EDGE-DETECTION-USING-CONVOLUTION-MATRICES
 # Edge Detection Using Convolution Matrices
 
 A Python implementation of edge detection using Sobel and Prewitt convolution operators. This project demonstrates fundamental image processing techniques by detecting edges in images through custom convolution operations built with NumPy.
